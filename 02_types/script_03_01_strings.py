@@ -1,6 +1,0 @@
-print("")
-print("Podaj testowe słowo:")
-word=str(input())
-print("Czy słowo ma same cyfry?")
-print("")
-print(word.isdigit())
