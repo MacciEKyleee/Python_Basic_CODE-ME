@@ -15,4 +15,4 @@ print('')
 print('Zwierzę wabi się: ', name)
 print('')
 
-print('Mój' , type_animal , 'rasy ' , race , 'wabi się' , name)
+print('Mój' , type_animal , 'rasy' , race , 'wabi się' ,name,'.')
