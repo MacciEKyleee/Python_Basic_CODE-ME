@@ -1,0 +1,50 @@
+50. Deer
+49. Turkey
+48. Cow
+47. Turtle
+46. Rabbit
+45. Cat
+44. Zebra
+43. Whales
+42. Alpaca
+41. Rhinoceros
+40. Yak
+39. Wolf
+38. Hawk
+37. Seal
+36. Llama
+35. Tiger
+34. Armadillo
+33. Beaver
+32. Camel
+31. Cheetah
+30. Bear
+29. Ape
+28. Shark
+27. Sloth
+26. Chicken
+25. Dolphin
+24. Parrot
+23. Lizard
+22. Panther
+21. Stingray
+20. Porcupine
+19. Snake
+18. Prairie Dog
+17. Moose
+16. Killer Whale
+15. Flamingo
+14. Kangaroo
+13. Monkey
+12. Lion
+11. Hippopotamus
+10. Pig
+ 9. Dog
+ 8. Alligator
+ 7. Anteater
+ 6. Rat
+ 5. Elephant
+ 4. Otter
+ 3. Giraffe
+ 2. Goat
+ 1. Platypus
