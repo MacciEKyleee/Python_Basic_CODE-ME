@@ -28,10 +28,8 @@ def main(number_of_days):
         "weather": "",
         "cloudiness": 0
     }
-
+    counting_days = -1
     for day in data["daily"]:
-        counting_days = 0
-
         if counting_days < number_of_days:
             day_temp["date"] = datetime.utcfromtimestamp(day["dt"]).strftime('%Y-%m-%d')
             day_temp["sunrise"] = datetime.utcfromtimestamp(day["sunrise"]).strftime('%H:%M:%S')
