@@ -47,10 +47,10 @@ def main():
         #days.append(day_temp.copy())
 
     #print("7 days forecast for Gdansk:\n")
-    selected_day = int(input('Podaj szukany dzień'))
-    print_day(selected_day)
-    # for day in days:
-    #     print_day(day)
+    #selected_day = int(input('Podaj szukany dzień'))
+    #print_day(selected_day)
+    for day in days:
+        print_day(day)
 
 def print_day(day):
     pdf = FPDF()
