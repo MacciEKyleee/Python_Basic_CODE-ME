@@ -6,7 +6,7 @@
  Rozgrywka powinna być maksymalnie intuicyjna.
 """
 import random
-
+import import_dictionaty as RAN_WOR
 # stałe
 HANGMAN = (
     """
@@ -107,11 +107,14 @@ HANGMAN = (
     """)
 
 MAX_WRONG = len(HANGMAN) - 1
-WORDS = ["SZWECJA", "ANGLIA", "ESTONIA", "CZECHY", "CHORWACJA"]
+
+WORDS = RAN_WOR
+
 #WORDS = ["ANGLIA"]
 
 # inicjalizacja zmiennych
-word = random.choice(WORDS)  # słowo do odgadnięcia
+#word = random.choice(WORDS)  # słowo do odgadnięcia
+word = WORDS
 so_far = "-" * len(word)  # kreska zastępuje nieodgadniętą literę
 wrong = 0  # liczba nietrafionych liter
 used = []  # litery już użyte w zgadywaniu

@@ -1,0 +1,50 @@
+ 1. Mangos
+ 2. Strawberries
+ 3. Watermelons
+ 4. Pineapples
+ 5. Peaches
+ 6. Grapes
+ 7. Berries
+ 8. Raspberries
+ 9. Cherries
+10. Oranges
+11. Green Grapes
+12. Apples
+13. Mandarin oranges
+14. Bananas
+15. Blueberries
+16. Blackberries
+17. Kiwis
+18. Nectarines
+19. Honey Crisp Apple
+20. Red Grapes
+21. Pears
+22. Bing Cherries
+23. Tangerines
+24. Plums
+25. Apples with skin
+26. Pomegranates
+27. Lemons
+28. Melons
+29. Green Apples
+30. Avocados
+31. Pink Lady Apples
+32. Cantaloupes
+33. Clementine (cuties)
+34. Black Cherry
+35. Gala Apples
+36. Wild Strawberries
+37. Limes
+38. Navel Oranges
+39. Coconuts
+40. Honeydew melons
+41. White Peaches
+42. Apricots
+43. Lychees
+44. Golden Apples
+45. Black Plum
+46. Blood oranges
+47. Rainier Cherries
+48. Asian Pears
+49. Golden Kiwi
+50. Sugarcane

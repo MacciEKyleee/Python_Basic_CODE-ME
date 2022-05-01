@@ -2,14 +2,15 @@ filename = 'dictionary.txt'
 
 import random
 
-def get_answer():
-    answer = input('Wybierz z jakiej kategorii chcesz odgadywać hasło: ANIMALS, FRUITS or VEGETABLES.')
-    return answer
-
 def get_quotes():
     with open(filename) as fopen:
         quotes = fopen.readlines()
     return quotes
+
+def get_answer():
+    answer = input('Wybierz z jakiej kategorii chcesz odgadywać hasło: ANIMALS, FRUITS or VEGETABLES.\n')
+    answer = answer.upper()
+    return answer
 
 def show(content):
     if get_answer() == 'VEGETABLES':
@@ -31,11 +32,14 @@ def show(content):
         print(quote[1])
 
     else:
-        print('Podałeś zły zakres')
+        return('Podałeś zły zakres')
 
 
 
 # main code
+def main():
+    quotes_list = get_quotes()
+    return show(quotes_list)
 
-quotes_list = get_quotes()
-show(quotes_list)
+if __name__ == '__main__':
+     main()

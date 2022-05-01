@@ -22,6 +22,7 @@
 filename = 'Citats.txt'
 
 import random
+
 def get_quotes():
     with open(filename) as fopen:
         quotes = fopen.readlines()
